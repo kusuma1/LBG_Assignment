@@ -33,7 +33,7 @@ Prerequisites**
 •	Install Selenium
 
 **Run**
-•	Clone the given repository using “git clone” command 
+•	Clone the given repository.
 •	In the terminal, run the following command  "npm run test"
 
 
